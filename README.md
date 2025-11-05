@@ -1,6 +1,4 @@
-## 🖼️ Display Images
 
-> Images hosted via Google Drive (public links).
 
 <p align="center">
   <img src=""
@@ -12,4 +10,5 @@
        width="400"
        style="border-radius:15px; box-shadow:0 0 10px #00ff88; margin:10px;" />
 </p>
+
 
